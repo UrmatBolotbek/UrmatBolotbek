@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UrmatBolotbek/UrmatBolotbek/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UrmatBolotbek/UrmatBolotbek/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/UrmatBolotbek/UrmatBolotbek/output/github-snake.svg" />
-</picture>
-
 # 💫 About Me:
 🔭 I’m currently working on constantly enhancing and deepening my knowledge and skills to expand my capabilities.<br>👯 I’m looking to collaborate on Java-based projects where I can contribute effectively while learning from experienced professionals.<br>🌱 I’m currently learning to gain an in-depth understanding of algorithms, data structures, and mathematics to further refine my technical expertise.<br>💬 Ask me about anything—I’m genuinely interested in discussing a wide range of topics and ideas.<br>🚀 Getting better every day as I embrace new challenges and opportunities to evolve both personally and professionally.
 
@@ -20,3 +14,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=UrmatBolotbek&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UrmatBolotbek/UrmatBolotbek/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UrmatBolotbek/UrmatBolotbek/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/UrmatBolotbek/UrmatBolotbek/output/github-snake.svg" />
+</picture>
